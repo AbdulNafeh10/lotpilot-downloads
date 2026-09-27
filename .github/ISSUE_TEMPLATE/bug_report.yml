@@ -1,0 +1,44 @@
+name: Report a LotPilot problem
+description: Help us reproduce a setup, collection, PDF or printing issue.
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: "Reports are public. Do not include customer information, passwords, VIN lists or printer addresses."
+  - type: input
+    id: version
+    attributes:
+      label: LotPilot version
+      description: Shown in the Updates window.
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Where did it happen?
+      options:
+        - Installation or update
+        - Printer setup
+        - Vehicle collection
+        - PDF generation
+        - Printing
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: What steps caused the problem?
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: What did you expect, and what happened instead?
+    validations:
+      required: true
+  - type: textarea
+    id: error
+    attributes:
+      label: Exact error message
+      description: Remove private information before posting.
