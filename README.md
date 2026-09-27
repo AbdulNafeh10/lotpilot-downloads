@@ -1,6 +1,6 @@
 # LotPilot for Windows
 
-[Download LotPilot Setup 1.1.0](https://github.com/AbdulNafeh10/lotpilot-downloads/releases/download/v1.1.0/LotPilot-Setup-1.1.0.exe)
+[Download LotPilot Setup 1.2.1](https://github.com/AbdulNafeh10/lotpilot-downloads/releases/download/v1.2.1/LotPilot-Setup-1.2.1.exe)
 
 [Latest release and downloads](https://github.com/AbdulNafeh10/lotpilot-downloads/releases/latest)
 
@@ -24,3 +24,9 @@ Open **Updates** in LotPilot: **Check for updates > Download update > Restart & 
 Each PC stores its own batches, PDF files and settings in `Documents/LotPilot`. No shared database and no automatic batch backups. Updates preserve settings and local data. The installer replaces application files only and creates a desktop shortcut.
 
 Only release downloads and installation documentation are hosted here. No dealership batches, VIN input lists, saved documents, printer credentials or print history are uploaded.
+
+## Report a problem
+
+Use **Report a bug** in LotPilot. Describe the steps, expected result and error. Save a local report or choose **Open GitHub draft** to review and submit it yourself. GitHub issues are public; do not include customer details or credentials. No VINs, logs, files or printer addresses are attached automatically.
+
+Printer setup has four steps: choose printer entries, set Windows preferences, load/configure the physical Canon tray, then verify and optionally print two labeled sample sheets. Verification does not claim the paper printed. Confirm the output yourself.
