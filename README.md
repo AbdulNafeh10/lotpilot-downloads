@@ -1,6 +1,6 @@
 # LotPilot for Windows
 
-[Download LotPilot Setup 1.2.1](https://github.com/AbdulNafeh10/lotpilot-downloads/releases/download/v1.2.1/LotPilot-Setup-1.2.1.exe)
+[Download LotPilot Setup 1.2.2](https://github.com/AbdulNafeh10/lotpilot-downloads/releases/download/v1.2.2/LotPilot-Setup-1.2.2.exe)
 
 [Latest release and downloads](https://github.com/AbdulNafeh10/lotpilot-downloads/releases/latest)
 
